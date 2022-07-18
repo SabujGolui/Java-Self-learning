@@ -20,7 +20,7 @@ public class function {
 //        return a * b;
 //    }
 
-        //find the factorial of a number
+    //find the factorial of a number
     public static void factorial(int n) {
         if (n<0) {
             System.out.println("Factorial of negative number is not defined");
@@ -44,14 +44,18 @@ public class function {
 //        int a = sc.nextInt();
 //        int b = sc.nextInt();
 
-//        System.out.println("The result is: " + multiplyTwoNumbers(a, b));
-
+        //function to print a string and return the string
 //        String name = sc.nextLine();
 //        printMyName(name); // calling the function
 
+        // make a function to add two numbers and return the result
 //        int result = addTwoNumbers(a, b);
-//        System.out.println("The result is: " +
+//        System.out.println("The result is: " + result);
 
+        // make a function to multiply two numbers and return the result
+//        System.out.println("The result is: " + multiplyTwoNumbers(a, b));
+
+        //find the factorial of a number
         factorial(n);
     }
 
