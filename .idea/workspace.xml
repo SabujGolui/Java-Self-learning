@@ -2,6 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc9a9988-d03d-4a71-88bf-4f4947cd640a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_1/AddOddNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_1/CircleCircumference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_1/CountCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_1/FibonacciSeries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_1/GCDCalculation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_1/GreaterNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_1/InfiniteLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_1/PrintAvarage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_1/SquareNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_1/VoteEligibility.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/function.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/function.java" afterDir="false" />
     </list>
@@ -31,45 +42,76 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "settings.editor.selected.configurable": "terminal"
   }
-}</component>
-  <component name="RunManager" selected="Application.function">
-    <configuration name="Diamond" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Diamond" />
+}]]></component>
+  <component name="RunManager" selected="Application.FibonacciSeries">
+    <configuration name="CountCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise_1.CountCheck" />
       <module name="Java-self-learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercise_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="adpatterns" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="adpatterns" />
+    <configuration name="FibonacciSeries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise_1.FibonacciSeries" />
       <module name="Java-self-learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercise_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="function" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="function" />
+    <configuration name="GCDCalculation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise_1.GCDCalculation" />
       <module name="Java-self-learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercise_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="loop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loop" />
+    <configuration name="InfiniteLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise_1.InfiniteLoop" />
       <module name="Java-self-learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercise_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="patterns" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="patterns" />
+    <configuration name="SquareNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise_1.SquareNumbers" />
       <module name="Java-self-learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercise_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -83,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.function" />
-        <item itemvalue="Application.adpatterns" />
-        <item itemvalue="Application.Diamond" />
-        <item itemvalue="Application.patterns" />
-        <item itemvalue="Application.loop" />
+        <item itemvalue="Application.FibonacciSeries" />
+        <item itemvalue="Application.GCDCalculation" />
+        <item itemvalue="Application.SquareNumbers" />
+        <item itemvalue="Application.CountCheck" />
+        <item itemvalue="Application.InfiniteLoop" />
       </list>
     </recent_temporary>
   </component>
