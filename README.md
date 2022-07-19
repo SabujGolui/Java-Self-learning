@@ -15,6 +15,7 @@ Download link : https://adoptium.net/
 - Variables 
 - Conditional statements 
 - Loop 
+- Function
 ## Acknowledgements 
 
  - [Code With Harry](https://www.youtube.com/playlist?list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q)
