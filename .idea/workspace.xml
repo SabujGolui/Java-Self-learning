@@ -2,19 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc9a9988-d03d-4a71-88bf-4f4947cd640a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise_1/AddOddNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise_1/CircleCircumference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise_1/CountCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise_1/FibonacciSeries.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise_1/GCDCalculation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise_1/GreaterNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise_1/InfiniteLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise_1/PrintAvarage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise_1/SquareNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise_1/VoteEligibility.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/function.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/function.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
